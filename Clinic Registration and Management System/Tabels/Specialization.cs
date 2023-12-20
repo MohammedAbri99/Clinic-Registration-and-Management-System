@@ -13,9 +13,10 @@ namespace Clinic_Registration_and_Management_System.Tabels
         public string SpecializationName { get; set;}
         public string Description { get; set;}
 
-        //the relation between Specializaiton and appointment is one to many
-        public ICollection<Appointment> Spacialization { get; set; } = new List<Appointment>();
+        // Navigation property for the one-to-many relationship with Appointments
+        // Each Appointment has one Specialization only but can Specialization have many Appointment.
+        public List<Appointment> Appointments { get; set; }
 
-        
+
     }
 }

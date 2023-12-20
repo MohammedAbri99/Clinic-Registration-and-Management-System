@@ -1,0 +1,58 @@
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Clinic Registration and Management System.exe
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Clinic Registration and Management System.deps.json
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Clinic Registration and Management System.runtimeconfig.json
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Clinic Registration and Management System.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Clinic Registration and Management System.pdb
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Humanizer.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.csproj.AssemblyReference.cache
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.AssemblyInfoInputs.cache
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.AssemblyInfo.cs
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.csproj.CoreCompileInputs.cache
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.csproj.CopyComplete
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\refint\Clinic Registration and Management System.dll
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.pdb
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\Clinic Registration and Management System.genruntimeconfig.cache
+D:\Documents\Makeen Program\Clinic Registration and Management System solution\Clinic Registration and Management System\obj\Debug\net6.0\ref\Clinic Registration and Management System.dll

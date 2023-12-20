@@ -12,22 +12,24 @@ namespace Clinic_Registration_and_Management_System.myDbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=ENGABUFIRAS-PC;Initial Catalog=ReservationSystem;Integrated Security=True;");
+            optionsBuilder.UseSqlServer("Data Source=ENGABUFIRAS-PC;Initial Catalog=ClinicSystem;Integrated Security=True;");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Appointment>()
-                .HasOne<Patient>()
-                .WithMany();
             modelBuilder.Entity<Patient>()
-                .HasMany<Appointment>()
-                .WithOne();
+                .HasMany(p => p.Appointments)
+                .WithOne(a => a.Patient)
+                .HasForeignKey(a => a.PatientId);
+
+            modelBuilder.Entity<Specialization>()
+                .HasMany(s => s.Appointments)
+                .WithOne(a => a.Specialization)
+                .HasForeignKey(a => a.SpecializationId);
 
         }
         public DbSet<Patient>? patients { set; get; }
         public DbSet<Appointment>? appointments { get; set; }
         public DbSet<Specialization>? specializations { get; set; }
-
         public DbSet<Admin>? admins { get; set; }
 
 
